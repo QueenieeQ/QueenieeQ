@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Java, Swift**
 
-- 🤝 I’m looking for help with **Swift**
 
 - 📝 I regularly write articles on [http://queeniee.xyz](http://queeniee.xyz)
 
