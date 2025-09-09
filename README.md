@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ninh Xuân Quý</h1>
-<h3 align="center">I am a fourth-year student looking for an opportunity to gain experience in a realistic working environment.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=queenieeq&label=Profile%20views&color=0e75b6&style=flat" alt="queenieeq" /> </p>
 
